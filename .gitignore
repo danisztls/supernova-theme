@@ -1,0 +1,6 @@
+templates/*
+schemes/*
+!schemes/nebula
+wip/
+DEVELOPMENT.md
+
