@@ -1,6 +1,7 @@
+env/
 templates/*
 schemes/*
-!schemes/nebula
+!schemes/supernova
 wip/
 DEVELOPMENT.md
 
