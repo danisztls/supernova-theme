@@ -4,7 +4,7 @@
 
 * [Files](#files)
 * [Colors](#colors)
-    * [base16](#base16)
+    * [Base16](#base16)
     * [Terminal](#terminal)
 * [Screenshots](#screenshots)
 
@@ -12,7 +12,7 @@
 
 Supernova is a theme with vivid colors inspired in the light of the stars. 
 
-I tried to use a different hue and maximize saturation for each color but I also balanced the contrast so to improve readability and avoid the 'blinding' effect. 
+I balanced the contrast to improve readability and avoid a 'blinding' effect and tried to use a different hue and maximize saturation for each color. 
 
 ## Files
 ```bash
@@ -25,7 +25,7 @@ supernova-theme
 ```
 
 ## Colors
-### base16
+### Base16
 [base16](https://github.com/chriskempson/base16) is a framework for building themes.
 
 - Schemes are palletes with 16 colors, 8 variations of a shade and 8 unique colors.
@@ -33,6 +33,9 @@ supernova-theme
 
 >Colors base00 to base07 are typically variations of a shade and run from darkest to lightest. These colors are used for foreground and background, status bars, line highlighting and such. Colors base08 to base0F are typically individual colors used for types, operators, names and variables. In order to create a dark theme, colors base00 to base07 should span from dark to light. For a light theme, these colours should span from light to dark.
 
+
+| id     | description                                                              |
+| ---    | ---                                                                      |
 | base00 | Default Background                                                       |
 | base01 | Lighter Background (Used for status bars, line number and folding marks) |
 | base02 | Selection Background                                                     |
@@ -53,6 +56,8 @@ supernova-theme
 ### Terminal
 Most terminal emulators uses 8 normal colors + bright colors and values for background, foreground and cursor.
 
+| id      | color          |
+| ---     | ---            |
 | color0  | black          |
 | color1  | red            |
 | color2  | green          |
