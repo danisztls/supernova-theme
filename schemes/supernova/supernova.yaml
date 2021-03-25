@@ -1,18 +1,18 @@
 scheme: "Supernova"
 author: "@lbcnz (https://github.com/lbcnz/supernova-theme)"
-base00: "2a373d" # Default Background
-base01: "334046" # Lighter Background (Used for status bars, line number and folding marks)
-base02: "1b252a" # Selection Background
-base03: "8f979b" # Comments, Invisibles, Line Highlighting
-base04: "167b9c" # Dark Foreground (Used for status bars)
-base05: "eceff1" # Default Foreground, Caret, Delimiters, Operators
-base06: "cfd8dc" # Light Foreground (Not often used)
-base07: "2d4b5a" # Light Background (Not often used)
-base08: "e33c54" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
-base09: "ad23e2" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
-base0A: "e0b126" # Classes, Markup Bold, Search Text Background
-base0B: "69b81a" # Strings, Inherited Class, Markup Code, Diff Inserted
-base0C: "20bfdf" # Support, Regular Expressions, Escape Characters, Markup Quotes
-base0D: "1ab2a4" # Functions, Methods, Attribute IDs, Headings
-base0E: "99b21a" # Keywords, Storage, Selector, Markup Italic, Diff Changed
-base0F: "e28a33" # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
+base00: "2d333b" # Default Background
+base01: "373e47" # Lighter Background (Used for status bars, line number and folding marks)
+base02: "545d68" # Selection Background
+base03: "909dab" # Comments, Invisibles, Line Highlighting
+base04: "adbac7" # Dark Foreground (Used for status bars)
+base05: "cdd9e5" # Default Foreground, Caret, Delimiters, Operators
+base06: "e7f3f4" # Light Foreground (Not often used)
+base07: "ffffff" # Light Background (Not often used)
+base08: "d40059" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+base09: "ff5c00" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base0A: "d9b600" # Classes, Markup Bold, Search Text Background
+base0B: "6bac00" # Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: "00a8e0" # Support, Regular Expressions, Escape Characters, Markup Quotes
+base0D: "237ef4" # Functions, Methods, Attribute IDs, Headings
+base0E: "00af9e" # Keywords, Storage, Selector, Markup Italic, Diff Changed
+base0F: "ff66c2" # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
