@@ -18,10 +18,9 @@ I balanced the contrast to improve readability and avoid a 'blinding' effect and
 ```bash
 supernova-theme
 ├─ colors               # color palletes
-├─ output               # base16 themes
 ├─ schemes              # base16 schemes
 ├─── supernova          # base16 supernova scheme
-└─ templates            # base16 templates
+└─ themes               # base16 themes
 ```
 
 ## Colors

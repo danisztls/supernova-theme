@@ -1,0 +1,7 @@
+[Scheme]
+Name=Base16-Supernova
+ColorForeground=#cdd9e5
+ColorBackground=#2d333b
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2d333b;#d40059;#6bac00;#d9b600;#237ef4;#00af9e;#00a8e0;#cdd9e5;#909dab;#d40059;#6bac00;#d9b600;#237ef4;#00af9e;#00a8e0;#ffffff

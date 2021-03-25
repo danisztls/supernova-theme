@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Supernova by @lbcnz (https://github.com/lbcnz/supernova-theme)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2d333b"
+idle_fg = "#cdd9e5"
+info_bg = "#00a8e0"
+info_fg = "#2d333b"
+good_bg = "#6bac00"
+good_fg = "#2d333b"
+warning_bg = "#d9b600"
+warning_fg = "#2d333b"
+critical_bg = "#d40059"
+critical_fg = "#2d333b"
+# The rest of the theme settings are left at default.

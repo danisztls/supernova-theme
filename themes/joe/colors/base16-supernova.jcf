@@ -1,0 +1,61 @@
+
+# base16 Supernova by @lbcnz (https://github.com/lbcnz/supernova-theme)
+
+.colors *
+
+-text		$cdd9e5/$2d333b
+-status		$adbac7/$545d68
+-cursor		$2d333b/$cdd9e5
+-selection	/$545d68
+-curlin		/$373e47
+-linum		$909dab/$373e47
+-curlinum	$adbac7/$373e47
+-menusel	$373e47/$adbac7
+
+-term 0 	$2d333b
+-term 1 	$237ef4
+-term 2 	$6bac00
+-term 3 	$00a8e0
+-term 4 	$ff5c00
+-term 5 	$00af9e
+-term 6 	$d9b600
+-term 7 	$adbac7
+-term 8 	$909dab
+-term 9 	$237ef4
+-term 10	$6bac00
+-term 11	$00a8e0
+-term 12	$d40059
+-term 13	$ff66c2
+-term 14	$d9b600
+-term 15	$ffffff
+
+=Constant	$ff5c00
+=String		$6bac00
+=Escape		$00a8e0
+
+=Comment	$909dab
+=StorageClass	+Type
+=Keyword	$00af9e
+=Conditional	$00af9e
+=Operator	$cdd9e5
+=Loop		$d9b600
+=Statement	$d40059
+=Type		$d9b600
+
+=DefinedIdent	$d40059
+=Label		$d9b600
+=DefinedType	$d9b600
+=Structure	$00af9e
+
+=Preproc	$d9b600
+=Include	$237ef4
+=Define		$00af9e
+=TODO		$d9b600/$373e47
+=Precond	$00af9e
+
+=diff.AddLine	$6bac00/$373e47
+=diff.ChgLine	$909dab/$373e47
+=diff.DelLine	$d40059/$373e47
+=diff.File	$d40059
+=diff.FileNew	$6bac00
+=diff.Hunk	$237ef4

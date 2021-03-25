@@ -1,0 +1,37 @@
+/**
+ * Base16 Supernova ROFI Color theme
+ *
+ * Authors
+ *  Scheme: @lbcnz (https://github.com/lbcnz/supernova-theme)
+ *  Template: Jordi Pakey-Rodriguez (https://github.com/0xdec), Andrea Scarpino (https://github.com/ilpianista)
+ */
+
+* {
+    red:                         rgba ( 212, 0, 89, 100 % );
+    blue:                        rgba ( 35, 126, 244, 100 % );
+    lightfg:                     rgba ( 231, 243, 244, 100 % );
+    lightbg:                     rgba ( 55, 62, 71, 100 % );
+    foreground:                  rgba ( 205, 217, 229, 100 % );
+    background:                  rgba ( 45, 51, 59, 100 % );
+    background-color:            rgba ( 45, 51, 59, 0 % );
+    separatorcolor:              @foreground;
+    border-color:                @foreground;
+    selected-normal-foreground:  @lightbg;
+    selected-normal-background:  @lightfg;
+    selected-active-foreground:  @background;
+    selected-active-background:  @blue;
+    selected-urgent-foreground:  @background;
+    selected-urgent-background:  @red;
+    normal-foreground:           @foreground;
+    normal-background:           @background;
+    active-foreground:           @blue;
+    active-background:           @background;
+    urgent-foreground:           @red;
+    urgent-background:           @background;
+    alternate-normal-foreground: @foreground;
+    alternate-normal-background: @lightbg;
+    alternate-active-foreground: @blue;
+    alternate-active-background: @lightbg;
+    alternate-urgent-foreground: @red;
+    alternate-urgent-background: @lightbg;
+}

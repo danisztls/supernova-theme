@@ -1,0 +1,22 @@
+{
+    "name": "base16-supernova",
+    "background": "#2d333b",
+    "selectionBackground": "#545d68",
+    "black": "#2d333b",
+    "blue": "#237ef4",
+    "brightBlack": "#909dab",
+    "brightBlue": "#adbac7",
+    "brightCyan": "#ff66c2",
+    "brightGreen": "#373e47",
+    "brightPurple": "#e7f3f4",
+    "brightRed": "#ff5c00",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#545d68",
+    "cyan": "#00a8e0",
+    "foreground": "#cdd9e5",
+    "green": "#6bac00",
+    "purple": "#00af9e",
+    "red": "#d40059",
+    "white": "#cdd9e5",
+    "yellow": "#d9b600"
+}

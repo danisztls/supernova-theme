@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Supernova
+; schema by @lbcnz (https://github.com/lbcnz/supernova-theme)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\supernova]
+
+; Default Foreground
+"Colour0"="205,217,229"
+
+; Default Bold Foreground  -- equals to non-bold
+"Colour1"="205,217,229"
+
+; Default Background
+"Colour2"="45,51,59"
+
+; Default Bold Background  -- equals to non-bold
+"Colour3"="45,51,59"
+
+; Cursor Text -- equals to default background
+"Colour4"="45,51,59"
+
+; Cursor Colour -- equals to default foreground
+"Colour5"="205,217,229"
+
+; ANSI Black
+"Colour6"="45,51,59"
+
+; ANSI Black Bold
+"Colour7"="144,157,171"
+
+; ANSI Red
+"Colour8"="212,0,89"
+
+; ANSI Red Bold
+"Colour9"="255,92,0"
+
+; ANSI Green
+"Colour10"="107,172,0"
+
+; ANSI Green Bold
+"Colour11"="55,62,71"
+
+; ANSI Yellow
+"Colour12"="217,182,0"
+
+; ANSI Yellow Bold
+"Colour13"="84,93,104"
+
+; ANSI Blue
+"Colour14"="35,126,244"
+
+; ANSI Blue Bold
+"Colour15"="173,186,199"
+
+; ANSI Magenta
+"Colour16"="0,175,158"
+
+; ANSI Magenta Bold
+"Colour17"="231,243,244"
+
+; ANSI Cyan
+"Colour18"="0,168,224"
+
+; ANSI Cyan Bold
+"Colour19"="255,102,194"
+
+; ANSI White
+"Colour20"="205,217,229"
+
+; ANSI White Bold
+"Colour21"="255,255,255"
+

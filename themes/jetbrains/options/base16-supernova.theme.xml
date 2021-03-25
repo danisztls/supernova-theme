@@ -1,0 +1,21 @@
+<!--    Base16 Supernova
+        Author: @lbcnz (https://github.com/lbcnz/supernova-theme)   -->
+
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="notificationsColor" value="2d333b" />
+    <option name="treeSelectionColor" value="237ef4" />
+    <option name="highlightColor" value="545d68" />
+    <option name="secondBorderColor" value="2d333b" />
+    <option name="tableSelectedColor" value="237ef4" />
+    <option name="contrastColor" value="373e47" />
+    <option name="disabledColor" value="adbac7" />
+    <option name="secondaryBackgroundColor" value="373e47" />
+    <option name="buttonColor" value="2d333b" />
+    <option name="selectionForegroundColor" value="e7f3f4" />
+    <option name="selectionBackgroundColor" value="237ef4" />
+    <option name="textColor" value="e7f3f4" />
+    <option name="foregroundColor" value="cdd9e5" />
+    <option name="backgroundColor" value="2d333b" />
+  </component>
+</application> 

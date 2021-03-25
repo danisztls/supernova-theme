@@ -1,0 +1,26 @@
+-- Name: Base16 Supernova
+-- Author: @lbcnz (https://github.com/lbcnz/supernova-theme)
+-- Template by Bez Hermoso <bezalelhermoso@gmail.com>
+
+Description = "Base16 "
+
+Default = { Colour = "#cdd9e5" }
+Canvas = { Colour="#2d333b" }
+Number = { Colour="#ff5c00" }
+Escape = { Colour="#e7f3f4" , Italic=true}
+String = { Colour="#6bac00" }
+BlockComment = { Colour="#909dab" }
+StringPreProc = String
+LineComment   = BlockComment
+Operator      = { Colour="#cdd9e5" }
+LineNum      = { Color="#909dab" }
+PreProcessor      = { Colour="#ff66c2" }
+Interpolation  = Escape
+
+Keywords = {
+  { Colour="#d40059", Bold=true},
+  { Colour="#d9b600"},
+  { Colour="#237ef4"},
+  { Colour="#d9b600"},
+  { Colour="#d9b600" }
+}
