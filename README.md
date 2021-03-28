@@ -1,14 +1,5 @@
 # Supernova
 
-<!-- TOC GFM -->
-
-* [Files](#files)
-* [Colors](#colors)
-    * [Base16](#base16)
-    * [Terminal](#terminal)
-
-<!-- /TOC -->
-
 **Supernova is a theme with vivid colors inspired by the light of the stars.** 
 
 ![Supernova Spectrum](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/supernova.png)
