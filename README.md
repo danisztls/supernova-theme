@@ -2,7 +2,16 @@
 
 **Supernova is a theme with vivid colors inspired by the light of the stars.** 
 
-![Supernova Spectrum](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/supernova.png)
+![Supernova Spectrum](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/supernova.png)
+
+## Themes
+#### Kitty
+
+#### Allacrity
+
+#### vim-airline
+![vim-airline](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-airline.png)
+
 
 ## Files
 ```bash
