@@ -6,13 +6,12 @@
 * [Colors](#colors)
     * [Base16](#base16)
     * [Terminal](#terminal)
-* [Screenshots](#screenshots)
 
 <!-- /TOC -->
 
-Supernova is a theme with vivid colors inspired in the light of the stars. 
+**Supernova is a theme with vivid colors inspired by the light of the stars.** 
 
-I balanced the contrast to improve readability and avoid a 'blinding' effect and tried to use a different hue and maximize saturation for each color. 
+![Supernova Spectrum](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/supernova.png)
 
 ## Files
 ```bash
@@ -74,4 +73,3 @@ Most terminal emulators uses 8 normal colors + bright colors and values for back
 | color14 | bright cyan    |
 | color15 | bright white   |
 
-## Screenshots
