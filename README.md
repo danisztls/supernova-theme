@@ -13,6 +13,7 @@
         * [vim-airline](#vim-airline)
         * [vim-papercolor](#vim-papercolor)
     * [FZF](#fzf)
+    * [Gedit](#gedit)
     * [VS Code](#vs-code)
 
 <!-- /TOC -->
@@ -78,6 +79,9 @@ There are settings included for Kitty and Alacritty but most terminal emulators 
 
 ### FZF
 ![fzf](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/fzf.png)
+
+### Gedit
+![Gedit](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/gedit.png)
 
 ### VS Code
 ![VSCode](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vscode.png)
