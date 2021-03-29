@@ -12,15 +12,14 @@
     * [Vim](#vim)
         * [vim-airline](#vim-airline)
         * [vim-papercolor](#vim-papercolor)
-    * [Misc](#misc)
-        * [fzf](#fzf)
-        * [Visual Studio](#visual-studio)
+    * [FZF](#fzf)
+    * [VS Code](#vs-code)
 
 <!-- /TOC -->
 
 ## Themes
 ### Terminal
-![Terminal](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-terminal.png)
+![Terminal](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/terminal.png)
 
 There are settings included for Kitty and Alacritty but most terminal emulators uses 8 normal colors + bright colors and values for background, foreground and cursor.
 
@@ -77,10 +76,9 @@ There are settings included for Kitty and Alacritty but most terminal emulators 
 #### vim-papercolor
 ![vim-papercolor](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-papercolor.png)
 
-### Misc
-#### fzf
+### FZF
 ![fzf](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/fzf.png)
 
-#### Visual Studio
+### VS Code
 ![VSCode](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vscode.png)
 
