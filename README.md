@@ -1,6 +1,6 @@
 # Supernova
 
-**Supernova is a theme with vivid colors inspired by the light of the stars.** 
+**Supernova is a dark theme with vivid colors inspired by the light of the stars.** 
 
 ![Supernova Spectrum](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/supernova.png)
 
@@ -10,13 +10,13 @@
     * [Terminal](#terminal)
     * [Base16](#base16)
     * [Vim](#vim)
-        * [vim-papercolor](#vim-papercolor)
         * [vim-airline](#vim-airline)
+        * [vim-papercolor](#vim-papercolor)
+    * [Misc](#misc)
         * [fzf](#fzf)
         * [Visual Studio](#visual-studio)
 
 <!-- /TOC -->
-
 
 ## Themes
 ### Terminal
@@ -49,8 +49,7 @@ There are settings included for Kitty and Alacritty but most terminal emulators 
 - Schemes are palletes with 16 colors, 8 variations of a shade and 8 unique colors.
 - Templates are instructions for building themes for applications
 
->Colors base00 to base07 are typically variations of a shade and run from darkest to lightest. These colors are used for foreground and background, status bars, line highlighting and such. Colors base08 to base0F are typically individual colors used for types, operators, names and variables. In order to create a dark theme, colors base00 to base07 should span from dark to light. For a light theme, these colours should span from light to dark.
-
+>Colors base00 to base07 are typically variations of a shade and run from darkest to lightest. These colors are used for foreground and background, status bars, line highlighting and such. Colors base08 to base0F are typically individual colors used for types, operators, names and variables. In order to create a dark theme, colors base00 to base07 should span from dark to light. For a light theme, these colours should span from light to dark. — base16 project readme
 
 | id     | value    | description                                                              |
 | ---    | ---      | ---                                                                      |
@@ -72,11 +71,13 @@ There are settings included for Kitty and Alacritty but most terminal emulators 
 | base0F | #FF66C2  | Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>        |
 
 ### Vim
-#### vim-papercolor
-
 #### vim-airline
 ![vim-airline](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-airline.png)
 
+#### vim-papercolor
+![vim-papercolor](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-papercolor.png)
+
+### Misc
 #### fzf
 ![fzf](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/fzf.png)
 
