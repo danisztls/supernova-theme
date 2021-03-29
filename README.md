@@ -12,6 +12,8 @@
 #### vim-airline
 ![vim-airline](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-airline.png)
 
+#### Visual Studio
+![VSCode](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vscode.png)
 
 ## Files
 ```bash
