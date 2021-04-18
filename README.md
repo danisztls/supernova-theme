@@ -6,44 +6,21 @@
 
 <!-- TOC GFM -->
 
+* [Base16](#base16)
+* [Terminal](#terminal)
 * [Themes](#themes)
-    * [Terminal](#terminal)
-    * [Base16](#base16)
-    * [Vim](#vim)
-        * [vim-airline](#vim-airline)
-        * [vim-papercolor](#vim-papercolor)
-    * [FZF](#fzf)
-    * [Gedit](#gedit)
-    * [VS Code](#vs-code)
+  * [Vim](#vim)
+    * [vim-airline](#vim-airline)
+    * [vim-papercolor](#vim-papercolor)
+  * [FZF](#fzf)
+  * [Gedit](#gedit)
+  * [VS Code](#vs-code)
+* [Resources](#resources)
+  * [TrueColor](#truecolor)
 
 <!-- /TOC -->
 
-## Themes
-### Terminal
-![Terminal](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/terminal.png)
-
-There are settings included for Kitty and Alacritty but most terminal emulators uses 8 normal colors + bright colors and values for background, foreground and cursor.
-
-| id      | value   | color          |
-| ---     | ---     | ---            |
-| color0  | #12171A | black          |
-| color1  | #CF2424 | red            |
-| color2  | #379000 | green          |
-| color3  | #FF5C00 | yellow         |
-| color4  | #0087E9 | blue           |
-| color5  | #B37EFF | magenta        |
-| color6  | #009385 | cyan           |
-| color7  | #999999 | white          |
-| color8  | #242E33 | bright black   |
-| color9  | #D40059 | bright red     |
-| color10 | #6BAC00 | bright green   |
-| color11 | #D9B600 | bright yellow  |
-| color12 | #0A8E00 | bright blue    |
-| color13 | #FF66C2 | bright magenta |
-| color14 | #00AF9E | bright cyan    |
-| color15 | #DDDDDD | bright white   |
-
-### Base16
+## Base16
 [base16](https://github.com/chriskempson/base16) is a framework for building themes.
 
 - Schemes are palletes with 16 colors, 8 variations of a shade and 8 unique colors.
@@ -70,6 +47,33 @@ There are settings included for Kitty and Alacritty but most terminal emulators 
 | base0E | #00AF9E  | Keywords, Storage, Selector, Markup Italic, Diff Changed                 |
 | base0F | #FF66C2  | Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>        |
 
+## Terminal
+![Terminal](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/terminal.png)
+
+There are settings included for Kitty and Alacritty but most terminal emulators uses 8 normal colors + bright colors and values for background, foreground and cursor.
+
+| id      | value   | color          |
+| ---     | ---     | ---            |
+| fg      | #ECEFF1 | foreground     |
+| bg      | #242E33 | background     |
+| color0  | #636C77 | black          |
+| color1  | #DB0025 | red            |
+| color2  | #308000 | green          |
+| color3  | #CC6800 | yellow         |
+| color4  | #007EA8 | blue           |
+| color5  | #A42EFF | magenta        |
+| color6  | #008276 | cyan           |
+| color7  | #C6D1D7 | white          |
+| color8  | #6C7986 | bright black   |
+| color9  | #FF1447 | bright red     |
+| color10 | #4E9C00 | bright green   |
+| color11 | #BA9C00 | bright yellow  |
+| color12 | #009BBA | bright blue    |
+| color13 | #C557FF | bright magenta |
+| color14 | #0BA394 | bright cyan    |
+| color15 | #FFFFFF | bright white   |
+
+## Themes
 ### Vim
 #### vim-airline
 ![vim-airline](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-airline.png)
@@ -86,3 +90,11 @@ There are settings included for Kitty and Alacritty but most terminal emulators 
 ### VS Code
 ![VSCode](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vscode.png)
 
+## Resources
+### TrueColor
+```sh
+# red, green and blue are 0 to 255 rgb values
+printf "\x1b[38;3;$red;$green;$bluemTRUECOLOR\x1b[0m\n"
+```
+
+Check: [XVilka/TrueColour.md](https://gist.github.com/XVilka/8346728)
