@@ -2,7 +2,7 @@
 
 **Supernova is a dark theme with vivid colors inspired by the light of the stars.** 
 
-![Supernova Spectrum](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/supernova.png)
+![Supernova Spectrum](https://raw.githubusercontent.com/danisztls/supernova-theme/main/img/supernova.png)
 
 <!-- TOC GFM -->
 
@@ -48,7 +48,7 @@
 | base0F | #FF66C2  | Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>        |
 
 ## Terminal
-![Terminal](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/terminal.png)
+![Terminal](https://raw.githubusercontent.com/danisztls/supernova-theme/main/img/terminal.png)
 
 There are settings included for Kitty and Alacritty but most terminal emulators uses 8 normal colors + bright colors and values for background, foreground and cursor.
 
@@ -76,19 +76,19 @@ There are settings included for Kitty and Alacritty but most terminal emulators 
 ## Themes
 ### Vim
 #### vim-airline
-![vim-airline](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-airline.png)
+![vim-airline](https://raw.githubusercontent.com/danisztls/supernova-theme/main/img/vim-airline.png)
 
 #### vim-papercolor
-![vim-papercolor](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vim-papercolor.png)
+![vim-papercolor](https://raw.githubusercontent.com/danisztls/supernova-theme/main/img/vim-papercolor.png)
 
 ### FZF
-![fzf](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/fzf.png)
+![fzf](https://raw.githubusercontent.com/danisztls/supernova-theme/main/img/fzf.png)
 
 ### Gedit
-![Gedit](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/gedit.png)
+![Gedit](https://raw.githubusercontent.com/danisztls/supernova-theme/main/img/gedit.png)
 
 ### VS Code
-![VSCode](https://raw.githubusercontent.com/lbcnz/supernova-theme/main/img/vscode.png)
+![VSCode](https://raw.githubusercontent.com/danisztls/supernova-theme/main/img/vscode.png)
 
 ## Resources
 ### TrueColor

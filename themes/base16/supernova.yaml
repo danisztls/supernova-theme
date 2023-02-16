@@ -1,5 +1,5 @@
 scheme: "Supernova"
-author: "@lbcnz (https://github.com/lbcnz/supernova-theme)"
+author: "@danisztls (https://github.com/danisztls/supernova-theme)"
 base00: "2d333b" # Default Background
 base01: "373e47" # Lighter Background (Used for status bars, line number and folding marks)
 base02: "545d68" # Selection Background
